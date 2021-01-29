@@ -1,0 +1,2 @@
+1. 下载https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-chinese-vocab.txt和https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-chinese.tar.gz。
+2. 解压重命名，在bert-base-chinese目录下放置config.json, pytorch_model.bin, vocab.txt三个文件。

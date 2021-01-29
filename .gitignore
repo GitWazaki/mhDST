@@ -1,0 +1,8 @@
+/.idea/
+/.vscode/
+/data
+/bert_model/saved_models
+/bert_model/bert-base-chinese
+.out
+.log
+.txt

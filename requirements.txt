@@ -1,0 +1,10 @@
+numpy==1.14.0
+torch==1.7.0
+Flask==1.0.2
+jieba==0.42.1
+Flask_SQLAlchemy==2.4.4
+pandas==1.0.4
+PyMySQL==0.10.0
+requests==2.22.0
+transformers==3.1.0
+scikit_learn==0.24.0

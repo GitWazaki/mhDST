@@ -1,0 +1,17 @@
+{
+  "data_dir": "bert_model/dataset/88_clf",
+  "bert_path": "bert_model/bert-base-chinese",
+  "emb_dim": 768,
+  "input_dropout": 0.4,
+  "lr": 1e-05,
+  "max_grad_norm": 1.0,
+  "num_epoch": 20,
+  "log_step": 100,
+  "batch_size": 24,
+  "save_dir": "bert_model/saved_models",
+  "log": "log.txt",
+  "seed": 0,
+  "cuda": true,
+  "num_class": 91,
+  "special_tokens": []
+}
